@@ -1,2 +1,5 @@
-# mygitprofile
-My Git Bash Profile
+# My Git Profile
+
+Load into ~/.bashrc
+
+[[ -s "$HOME/.gitprofile" ]] && source "$HOME/.gitprofile"
